@@ -16,13 +16,6 @@ This project is a smart, voice-enabled chatbot built using **Google Gemini AI** 
 - ⚙ **Rate Limited**: Handles API call delays gracefully.
 - 🛡 **Error Handling**: Smart fallback for API or speech errors.
 
----
-
-## 📸 Demo
-
-> Coming soon... (Add a GIF or video demo here)
-
----
 
 ## 🧰 Tech Stack
 
