@@ -36,5 +36,5 @@ This project is a smart, voice-enabled chatbot built using **Google Gemini AI** 
 
 Here’s how the chatbot looks in action:
 
-![ChatBot UI](assets/task2.PNG)
+![ChatBot UI](task2.PNG)
 
